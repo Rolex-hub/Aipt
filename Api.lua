@@ -62,5 +62,4 @@ return {
     table.concat,
     CFrame.Angles,
     math.random,
-    clonefunction,
 }
